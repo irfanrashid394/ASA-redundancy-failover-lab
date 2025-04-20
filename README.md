@@ -33,10 +33,7 @@ A **comprehensive PDF** file is included in the repository. It contains:
 - Explanations of key concepts
 - Diagrams and topology
 - Wireshark screenshots showing probe behavior and failover in action
-
-> 📄 [ASA_Redundancy_Documentation.pdf](./ASA_Redundancy_Documentation.pdf)
-
----
+--
 
 ## 🧠 Lab Topology
 
@@ -52,7 +49,7 @@ The GNS3 topology includes:
 
 Due to GitHub's file size limitations, the GNS3 project files are **hosted externally**. You can download the full project from the link below:
 
-👉 [Download GNS3 Project Files](https://drive.google.com/drive/folders/1vIOtBPO5axita0O4h7atsGpqBuNaHL8S?usp=sharing)
+👉 [Download GNS3 Project Files](https://drive.google.com/drive/folders/1vIOtBPO5axita0O4h7atsGpqBuNaHL8S?usp=sharing)
 
 ---
 
